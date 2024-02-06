@@ -1,0 +1,9 @@
+﻿/* Layout.css */
+
+.layout-container {
+    background-image: url('../Bilder/Hintergrund.jpg'); /* Specify the path to your background image */
+    background-size: cover; /* Cover the entire container */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+    min-height: 100vh; /* Set minimum height to fill the viewport */
+    padding: 20px; /* Add padding to the container */
+}
